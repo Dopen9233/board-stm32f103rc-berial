@@ -1,1 +1,0 @@
-multi_channel_with_dma_mode
